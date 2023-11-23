@@ -24,7 +24,7 @@ class getText {
         }
     }
 
-    Test
+    Test2
 }
 
 export { getText };
