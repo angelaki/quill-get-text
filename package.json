@@ -1,6 +1,6 @@
 {
   "name": "quill-get-text",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quill module to control how contents get serialized in Quill's getText()-method",
   "main": "index.js",
   "scripts": {
