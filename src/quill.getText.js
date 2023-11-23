@@ -23,6 +23,8 @@ class getText {
             this.Logger.error('Quill toolbar module not found! need { toolbar: // options } in Quill.modules for image icon to sit in')
         }
     }
+
+    Test
 }
 
 export { getText };
