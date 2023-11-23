@@ -1,0 +1,24 @@
+{
+  "name": "quill-get-text",
+  "version": "1.0.0",
+  "description": "Quill module to control how contents get serialized in Quill's getText()-method",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angelaki/quill-get-text.git"
+  },
+  "keywords": [
+    "quill",
+    "modules",
+    "getText"
+  ],
+  "author": "Tristan Sprößer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/angelaki/quill-get-text/issues"
+  },
+  "homepage": "https://github.com/angelaki/quill-get-text#readme"
+}
